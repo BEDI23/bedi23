@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Ecommerce Mobile App **ESSALAH**
 
-- 💬 Ask me about **Mobile App developement with Flutter & all on topics like clean Code**
+- 💬 Ask me about **Mobile App developement with Flutter & all on topics like clean Code .**
 
 - 📫 How to reach me **bedinade3@gmail.com**
 
